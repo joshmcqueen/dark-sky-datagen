@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # quick var setup 
 ds_url = "https://api.darksky.net/forecast"
-ds_token = "832a29d9f7de4f05e8de840e563be398"
+ds_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 num_days = 30
 lat = 47.620403
 lng = -122.349322 
